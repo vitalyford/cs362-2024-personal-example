@@ -140,7 +140,7 @@ class Contact extends Component {
                       <a href="./">http://t.co/CGIrdxIlI3</a>
                     </span>
                     <b>
-                      <a href="./">3 Days Ago</a>
+                      <a href="./">2</a>
                     </b>
                   </li>
                 </ul>
